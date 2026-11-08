@@ -1,0 +1,14 @@
+{
+  "name": "sentinix",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:server": "npm run dev --workspace=@sentinix/server"
+  },
+  "workspaces": [
+    "server",
+    "sdk",
+    "client"
+  ]
+}
