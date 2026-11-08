@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="public/Sentinix.png" alt="Sentinix" width="220" />
+<p align="center">
+  <img
+    src="./public/Sentinix.png"
+    alt="Sentinix - Monitor Trace Stay Ahead"
+    width="100%"
+  />
+</p>
 
 # 🛰️ Sentinix
 
