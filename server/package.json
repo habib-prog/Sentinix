@@ -5,5 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/server.js"
+  },
+  "devDependencies": {
+    "prisma": "^8.0.0-rc.33"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.10.1"
   }
 }
