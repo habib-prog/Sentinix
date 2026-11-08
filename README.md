@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="public/Sentinix.png" alt="Sentinix" width="220" />
+
 # 🛰️ Sentinix
 
 ### High-Throughput Distributed Tracing & Centralized Log Aggregator for Modern Microservices
