@@ -8,7 +8,6 @@
   />
 </p>
 
-# 🛰️ Sentinix
 
 ### High-Throughput Distributed Tracing & Centralized Log Aggregator for Modern Microservices
 
